@@ -1,0 +1,4 @@
+node_modules
+public/fonts
+public/index.bundle.js
+media/*
